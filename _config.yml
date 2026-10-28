@@ -12,7 +12,7 @@ site_theme               : "air" # The available themes options are "default", "
 title                    : "Kaushik Alaguvadivel Ramya"
 title_separator          : "-"
 name                     : &name "Kaushik Alaguvadivel Ramya"
-description              : &description "Kaushik Alaguvadivel Ramya's portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Kaushik Alaguvadivel Ramya, machine learning and visual analytics researcher at NYU"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://kaushikar.vercel.app # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Kaushik Alaguvadivel Ramya"
-  bio              : "AI/ML Expert and Software Engineer"
+  bio              : "ML & Visual Analytics Researcher"
   location         : "New York City, NY"
   employer         : "New York University"
   phone            : ""

@@ -3,7 +3,7 @@ title: "Multi-Agent Research Assistant"
 excerpt: "Self-correcting multi-agent RAG system for querying academic research papers through natural language. Built with LangGraph, FAISS, and MCP — featuring a critic-refine loop, intelligent query routing, and Claude Desktop integration."
 collection: portfolio
 date: 2026-03-01
-order: 1
+order: 3
 github_url: https://github.com/kaushikar11/Multi-Agent-Research-Assistant
 ---
 

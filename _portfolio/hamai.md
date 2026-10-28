@@ -3,7 +3,7 @@ title: "HamAI – AI-Powered Budget Tracking Application"
 excerpt: "Production-ready budgeting application with AI-powered transaction parsing using Google Gemini. Full-stack solution with React.js frontend, Node.js/Express backend, Firebase authentication, and comprehensive analytics dashboard."
 collection: portfolio
 date: 2026-01-01
-order: 1
+order: 4
 published_url: https://hamai.vercel.app
 github_url: https://github.com/stars/kaushikar11/lists/hamai
 ---

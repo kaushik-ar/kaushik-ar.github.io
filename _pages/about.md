@@ -11,7 +11,7 @@ redirect_from:
 
 ## About Me
 
-I am a problem solver and AI researcher passionate about developing innovative solutions at the intersection of artificial intelligence, machine learning, and full-stack development. Currently pursuing my Master of Science in Computer Science at New York University, I bring a strong foundation in research, software engineering, and entrepreneurship.
+I am a machine learning and visual analytics researcher and Master of Science in Computer Science student at New York University. My work centers on self-supervised representation learning and visual analytics for biomedical imaging, with interests spanning volumetric tissue imaging, computational neuroscience, and explainable and fair machine learning.
 
 ## Current Research
 
@@ -31,27 +31,20 @@ I have published 3 IEEE conference papers as first author, with earlier research
 
 **Want to learn more?** Check out my <a href="{{ base_path }}/publications/" class="btn btn--info">Publications</a> and <a href="{{ base_path }}/experience/" class="btn btn--info">Experience</a> pages.
 
-## Full-Stack Development Achievements
+## Teaching
 
-Beyond research, I'm an accomplished full-stack developer with experience building production-ready applications:
+- **Biomedical Visual Analytics**, New York University (2026), with Prof. Robert Krueger
+- **Cloud Computing and Distributed Systems**, Thiagarajar College of Engineering (2023–2025), supporting 200+ students
 
-- **Startup Projects:** Co-founded and developed **LegalAppa** (AI-driven legal document platform serving 15+ lawyers) and **Locallu** (freelancer-employer marketplace)
-- **E-commerce Platform:** Architected Tweeshirt, a GenAI-powered e-commerce platform processing 300+ daily requests with sub-2-second latency
-- **Production Systems:** Built and deployed TCE Ladies Hostel Management System currently managing 1000+ student records in active production
-- **AWS Certified:** AWS Certified Machine Learning Engineer and AWS Certified AI Practitioner
+## Research Strengths
 
-**Explore my work:** <a href="{{ base_path }}/projects/" class="btn btn--success">View Projects</a>
+- **Representation Learning:** Self-supervised learning, Vision Transformers, and graph neural networks for scientific imaging data
+- **Large-Scale Experimentation:** Training on multi-GB/TB imaging data on HPC clusters
+- **Interpretability & Fairness:** SHAP/LIME analysis and bias mitigation across multiple fairness metrics
+- **Publications:** First author on 3 IEEE conference papers, with 2 manuscripts in progress
 
-## Key Strengths
+## Get in Touch
 
-- **Research & Innovation:** Published researcher with expertise in cutting-edge AI/ML techniques
-- **Technical Excellence:** Proficient in Python, JavaScript, React.js, Node.js, and cloud technologies
-- **Problem Solving:** Proven ability to architect scalable solutions from concept to production
-- **Leadership:** Experience managing teams and mentoring 200+ students as a Teaching Assistant
-- **Entrepreneurship:** Successfully launched and maintained startup projects with real-world impact
+I'm always happy to talk about research in self-supervised learning, visual analytics, biomedical imaging, and computational neuroscience.
 
-## Current Focus
-
-I'm actively seeking opportunities to apply my research and development skills in AI/ML engineering and software engineering roles, where I can contribute to building intelligent systems that make a meaningful impact.
-
-**Get in touch:** <a href="mailto:kaushikar2211@gmail.com" class="btn">Contact Me</a>
+<a href="mailto:kaushikar2211@gmail.com" class="btn">Contact Me</a>
