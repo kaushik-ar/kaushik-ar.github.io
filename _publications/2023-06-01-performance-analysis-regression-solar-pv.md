@@ -4,8 +4,8 @@ collection: publications
 category: conferences
 excerpt: 'Published on June 1, 2023. This work aims to produce reliable short-term forecasting using machine learning methods such as Linear Regression, Random Forest Regression, and Decision Tree Regression. Results show 99% accuracy for the proposed models.'
 date: 2023-06-01
-venue: 'IEEE Conference, March 18-20, 2023'
-citation: 'A.R. Kaushik, S. Padmavathi, K.S. Gurucharan, and S.Charles Raja, &quot;Performance Analysis of Regression Models in Solar PV Forecasting,&quot; IEEE Conference, March 18-20, 2023.'
+venue: 'International Conference on Artificial Intelligence and Signal Processing (AISP 2023)'
+citation: 'A.R. Kaushik, S. Padmavathi, K.S. Gurucharan, and S.Charles Raja, &quot;Performance Analysis of Regression Models in Solar PV Forecasting,&quot; AISP 2023, doi: 10.1109/AISP57993.2023.10134943.'
 scholar_url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qghXVakAAAAJ&citation_for_view=qghXVakAAAAJ:u-x6o8ySG0sC
 ---
 

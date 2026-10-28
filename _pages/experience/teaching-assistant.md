@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Teaching Assistant - Thiagarajar College of Engineering"
+title: "Teaching Assistant, Cloud Computing and Distributed Systems - Thiagarajar College of Engineering"
 permalink: /experience/teaching-assistant/
 author_profile: true
 ---
@@ -9,16 +9,14 @@ author_profile: true
 
 <p><a href="{{ base_path }}/experience/" class="btn btn--small" style="font-size: 0.85em;"><i class="fas fa-arrow-left" aria-hidden="true"></i> Back</a></p>
 
-## Teaching Assistant
-**Thiagarajar College of Engineering** | *February 2023 – April 2025*  
+## Teaching Assistant, Cloud Computing and Distributed Systems
+**Thiagarajar College of Engineering** | *August 2023 – May 2025*  
 *Professor: Dr. S. Padmavathi*
 
-Supporting over **200+ students** in Cloud Computing and Distributed Systems courses
+Supporting **200+ students** in Cloud Computing and Distributed Systems courses
 {: .notice--success}
 
-- Teaching Assistant for **Cloud Computing** and **Distributed Systems** courses
-- Conducted lab sessions and office hours for Cloud Computing and Distributed Systems courses
-- Assisted in grading assignments and providing constructive feedback to improve student learning outcomes
+- Led lab sessions, graded assignments and exams, mentored students on AWS, Docker, and distributed architectures, and created supplementary course materials
 
 <nav class="pagination">
   <a href="{{ base_path }}/experience/ml-research-assistant/" class="pagination--pager" title="Machine Learning Research Assistant">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a>

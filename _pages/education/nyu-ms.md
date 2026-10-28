@@ -12,7 +12,8 @@ author_profile: true
 ## New York University
 **Master of Science in Computer Science**  
 *September 2025 – May 2027*  
-**GPA:** 3.33/4.0
+**GPA:** 3.67/4.0 (as of Spring 2026)  
+**Research Assistant:** [NYU VIDA Center](https://vida.engineering.nyu.edu/people/kaushik-alaguvadivel-ramya) (from Spring 2026)
 
 ### Relevant Coursework
 
@@ -21,7 +22,7 @@ author_profile: true
 - Big Data
 - Information Visualization
 - Machine Learning
-- Data Science
+- Responsible AI
 </div>
 
 {% comment %} Manual navigation for education/experience pages {% endcomment %}

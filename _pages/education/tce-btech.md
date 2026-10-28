@@ -21,6 +21,7 @@ author_profile: true
 - Artificial Intelligence
 - Data Mining
 - Data Analytics
+- Big Data Tools and Visualization
 - Cloud Computing
 - Algorithm Design
 - Fuzzy Sets and Clustering

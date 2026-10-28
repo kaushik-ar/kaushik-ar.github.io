@@ -14,7 +14,7 @@ author_profile: true
     <h3>New York University</h3>
     <p><strong>Master of Science in Computer Science</strong><br>
     <em>September 2025 – May 2027</em><br>
-    <strong>GPA:</strong> 3.33/4.0<br>
+    <strong>GPA:</strong> 3.67/4.0 (as of Spring 2026)<br>
     <a href="{{ base_path }}/education/nyu-ms/">more…</a></p>
   </div>
 
@@ -33,16 +33,39 @@ author_profile: true
 
 <div class="timeline-section">
   <div class="timeline-item">
+    <h3>MS Thesis Research — Research Assistant</h3>
+    <p><strong><a href="https://vida.engineering.nyu.edu/people/kaushik-alaguvadivel-ramya" target="_blank">NYU VIDA Center</a></strong> | <em>January 2026 – Present</em><br>
+    <em>Advisors: Prof. Robert Krueger (<a href="https://kruegert.github.io/lab/" target="_blank">Krueger Lab</a>) and Prof. Erdem Varol</em><br>
+    <em>Focus: Self-Supervised Learning, 3D Biomedical Imaging, Multiplexed Tissue Imaging</em><br>
+    <a href="{{ base_path }}/experience/nyu-vida-thesis/">more…</a></p>
+  </div>
+
+  <div class="timeline-item">
+    <h3>Summer Research, Computational Neuroscience</h3>
+    <p><strong>Neuroinformatics Lab, New York University</strong> | <em>June 2026 – July 2026</em><br>
+    <em>Advisor: Prof. Erdem Varol</em><br>
+    <em>Focus: Self-Supervised Learning, Neural Imaging</em><br>
+    <a href="{{ base_path }}/experience/nyu-neuroinformatics/">more…</a></p>
+  </div>
+
+  <div class="timeline-item">
+    <h3>Teaching Assistant, Biomedical Visual Analytics</h3>
+    <p><strong>New York University</strong> | <em>2026</em><br>
+    <em>Instructor: Prof. Robert Krueger</em><br>
+    <em>Focus: Biomedical Visualization</em></p>
+  </div>
+
+  <div class="timeline-item">
     <h3>Machine Learning Research Assistant</h3>
-    <p><strong>Thiagarajar College of Engineering</strong> | <em>April 2022 – May 2025</em><br>
+    <p><strong>Thiagarajar College of Engineering</strong> | <em>September 2022 – May 2025</em><br>
     <em>Research Advisor: Dr. S. Padmavathi (spmcse@tce.edu)</em><br>
     <em>Focus: Explainable AI, Deep Learning, Fairness in ML, UAV/Drone Classification</em><br>
     <a href="{{ base_path }}/experience/ml-research-assistant/">more…</a></p>
   </div>
 
   <div class="timeline-item">
-    <h3>Teaching Assistant</h3>
-    <p><strong>Thiagarajar College of Engineering</strong> | <em>February 2023 – April 2025</em><br>
+    <h3>Teaching Assistant, Cloud Computing and Distributed Systems</h3>
+    <p><strong>Thiagarajar College of Engineering</strong> | <em>August 2023 – May 2025</em><br>
     <em>Professor: Dr. S. Padmavathi</em><br>
     <a href="{{ base_path }}/experience/teaching-assistant/">more…</a></p>
   </div>

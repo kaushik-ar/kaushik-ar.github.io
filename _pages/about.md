@@ -13,13 +13,20 @@ redirect_from:
 
 I am a problem solver and AI researcher passionate about developing innovative solutions at the intersection of artificial intelligence, machine learning, and full-stack development. Currently pursuing my Master of Science in Computer Science at New York University, I bring a strong foundation in research, software engineering, and entrepreneurship.
 
+## Current Research
+
+I am a Research Assistant at the [NYU VIDA Center](https://vida.engineering.nyu.edu/people/kaushik-alaguvadivel-ramya), where I work on my MS thesis in **self-supervised representation learning for 3D multiplexed tissue imaging**, advised by Prof. Robert Krueger ([Krueger Lab](https://kruegert.github.io/lab/)) and Prof. Erdem Varol. My work spans self-supervised learning, volumetric biomedical imaging, vision transformers, and graph neural networks.
+
 ## Research Interests & Expertise
 
-My research focuses on **Explainable AI (XAI)**, **Fairness in Machine Learning**, and **Deep Learning** applications. I have published 3 IEEE conference papers as first author, with research spanning:
+**Primary:** Self-Supervised Representation Learning, 3D/Volumetric Biomedical Imaging, Multiplexed Tissue Imaging, Computational Neuroscience, Vision Transformers, Graph Neural Networks  
+**Also:** Explainable AI, Fairness in Machine Learning, Biomedical Visual Analytics
 
-- **UAV/Drone Classification** - Developed lightweight CNN architectures with Defense Institute of Advanced Technology, achieving 5× reduction in computational complexity while improving accuracy by 5%
+I have published 3 IEEE conference papers as first author, with earlier research spanning:
+
+- **UAV/Drone Classification** - Developed lightweight CNN architectures with the Defence Institute of Advanced Technology, achieving 5× lower complexity, 20× faster inference, and a 5% accuracy gain
 - **Human Activity Recognition** - Applied Shapley value-based game theory for feature contribution analysis across 500+ sensor attributes
-- **Fair AI Systems** - Implemented fairness-aware techniques reducing demographic bias by 30% while maintaining model performance
+- **Fair AI Systems** - Evaluated bias mitigation (DIR, Reweighing, LFR) across 11 fairness metrics for affect recognition, cutting bias by 30% at 95% accuracy
 - **Explainable AI** - Extensive work with SHAP and LIME for model interpretability in healthcare and wearable device applications
 
 **Want to learn more?** Check out my <a href="{{ base_path }}/publications/" class="btn btn--info">Publications</a> and <a href="{{ base_path }}/experience/" class="btn btn--info">Experience</a> pages.

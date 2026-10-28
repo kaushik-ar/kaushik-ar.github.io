@@ -38,13 +38,16 @@ layout: default
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.collection == 'publications' %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}
-          {% if page.github_url or page.scholar_url %}
+          {% if page.github_url or page.scholar_url or page.certificate_url %}
             <span style="margin-left: 1em;">
               {% if page.scholar_url %}
                 <a href="{{ page.scholar_url }}" class="btn btn--small btn--scholar" target="_blank" style="margin-right: 0.5em;"><i class="ai ai-google-scholar" aria-hidden="true"></i> Google Scholar</a>
               {% endif %}
               {% if page.github_url %}
                 <a href="{{ page.github_url }}" class="btn btn--small" target="_blank"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a>
+              {% endif %}
+              {% if page.certificate_url %}
+                <a href="{{ base_path }}{{ page.certificate_url }}" class="btn btn--small" target="_blank" style="margin-left: 0.5em;"><i class="fas fa-certificate" aria-hidden="true"></i> Certificate</a>
               {% endif %}
             </span>
           {% endif %}
